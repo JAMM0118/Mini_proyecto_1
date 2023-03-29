@@ -44,7 +44,7 @@ public class App {
         ArrayList<MejorAmigo> lista = new ArrayList<>();
         lista.add(gatico);
         lista.add(sasha);
-        
+        lista.add(amigo);
 
     }
 }
